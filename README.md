@@ -8,7 +8,7 @@ We're going to make a simple Heroku app that simply says "Hello!" to us. We're g
 
 * Writing a simple Ruby app and running it on our own machine
 * Creating a Heroku app
-* Deploying our code to Herok
+* Deploying our code to Heroku
 
 ---
 
