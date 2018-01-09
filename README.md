@@ -201,6 +201,7 @@ Having your app running on your own machine is great, but no one else can see it
 In your Terminal type;
 
 ```bash
+git init
 git add . # Adds all the files in your myapp folder
 git commit -m "First"
 ```
