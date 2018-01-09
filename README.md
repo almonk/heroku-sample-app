@@ -64,6 +64,7 @@ Installing Heroku is easy. Paste the following into your Terminal;
 
 ```bash
 brew install heroku/brew/heroku
+heroku update
 ```
 
 ---
