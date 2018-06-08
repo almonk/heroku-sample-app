@@ -5,6 +5,6 @@ class App < Sinatra::Base
   end
 
   get '/:word' do
-   json :reversed => params['word']
+   json :reversed => params['word'].reverse!
   end
 end
